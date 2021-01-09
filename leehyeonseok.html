@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      img.a:hover {
+        opacity: 0.9;
+      }
+    </style>
+  </head>
+  <body>
+    <img class="a" src="background.jpg" width="1895" height="950" />
+
+  </body>
+</html>
